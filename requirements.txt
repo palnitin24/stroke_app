@@ -1,0 +1,10 @@
+streamlit
+pickle5
+numpy
+scikit-learn==1.4.1.post1
+pypi-json
+pydantic
+fastapi
+uvicorn
+nest-asyncio
+Pillow
